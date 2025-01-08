@@ -2,7 +2,7 @@
 # Alarm Analyzer Script - STANDALONE
 
 ## Overview
-This script analyzes alarm logs to identify and report recurring issues in a specified directory. It is particularly useful for understanding alarm trends over a defined period and filtering alarms based on severity and frequency.
+This script analyzes alarm logs on linux environment to identify and report recurring issues in a specified directory. It is particularly useful for understanding alarm trends over a defined period and filtering alarms based on severity and frequency.
 
 ## Features
 - **Log Parsing:** Extracts and processes alarms from log files.
