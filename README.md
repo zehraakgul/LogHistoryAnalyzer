@@ -58,5 +58,6 @@ This script analyzes alarm logs on linux environment to identify and report recu
 If you encounter bugs or issues, please contact:
 - **Name:** `Zehra Akgül`
 - **Email:** [zehra.akgul@outlook.com.tr](mailto:zehra.akgul@outlook.com.tr)
+- **Work Email:** [zehra.akgul@ericsson.com](mailto:zehra.akgul@ericsson.com)
 
 Your feedback is appreciated to improve this script.
